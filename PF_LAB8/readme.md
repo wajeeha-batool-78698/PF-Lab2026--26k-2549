@@ -3,13 +3,13 @@ PF Lab 8
 # Solution Output
 
 ## TASK1:
-<img width="316" height="99" alt="image" src="https://github.com/user-attachments/assets/3b9dc43e-95cd-4b23-b3b3-4478a2bc58f7" />
+<img width="330" height="130" alt="image" src="https://github.com/user-attachments/assets/4852b03f-d858-4c62-9d45-436325d26745" />
 
 ## TASK2:
-<img width="274" height="129" alt="image" src="https://github.com/user-attachments/assets/03891c26-404f-4214-9cd0-cdb03b455d80" />
+<img width="226" height="141" alt="image" src="https://github.com/user-attachments/assets/92474814-4179-4fdf-aed9-ef0afdecf5f1" />
 
 ## TASK3:
-<img width="237" height="142" alt="image" src="https://github.com/user-attachments/assets/d1a6c3d7-ae00-4e98-ab05-012f040d8749" />
+<img width="266" height="158" alt="image" src="https://github.com/user-attachments/assets/8d94e76f-01a8-4844-9bd2-ba1206560243" />
 
 ## TASK4:
 <img width="293" height="159" alt="image" src="https://github.com/user-attachments/assets/0e82a2c0-689e-4d8b-8dce-98f7e320019e" />
@@ -34,8 +34,3 @@ PF Lab 8
 
 ## TASK11:
 <img width="386" height="162" alt="image" src="https://github.com/user-attachments/assets/0e49540e-f7d5-4f67-90b2-7216920141f9" />
-
-
-
-
-##TASK11:
